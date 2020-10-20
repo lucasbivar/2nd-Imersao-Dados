@@ -19,7 +19,6 @@ Esse repositório contém as aulas/desafios propostos durante a segunda #Imersã
   - Google Colab
   - Python
   - Pandas
-  - Matplotlib
 
 ## Autor:
 <table>
