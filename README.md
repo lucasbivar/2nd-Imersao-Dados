@@ -24,7 +24,12 @@ Esse repositório contém as aulas/desafios propostos durante a segunda #Imersã
   - Análise Exploratória 
   - Matplotlib
   - Seaborn
-
+  
+### Aula 03:
+  - Distribuições
+  - Causa e Correlação
+  - Curvas Assimétricas
+  
 ## Autor:
 <table>
   <tr>
