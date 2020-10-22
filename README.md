@@ -30,6 +30,11 @@ Esse repositório contém as aulas/desafios propostos durante a segunda #Imersã
   - Causa e Correlação
   - Curvas Assimétricas
   
+### Aula 04:
+  - Machine Learning
+  - Regressão vs Classificação
+  - Scikit-Learning
+  
 ## Autor:
 <table>
   <tr>
